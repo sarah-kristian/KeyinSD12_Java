@@ -1,5 +1,17 @@
 # KeyinSD12_Java, QAP1
 
+# Output Images
+Output for required questions.
+
+## 1. TestAccount
+![Q1 Image](images/Q1_output.png)
+
+## 2. TestDate
+![Q2 Image](images/Q2_output.png)
+
+## 3. TestTime
+![Q3 Image](images/Q3_output.png)
+
 # Assessment Completion Report
 
 ## 1. Time Spent
